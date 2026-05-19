@@ -14,7 +14,7 @@ from ultralytics import YOLO
 from collections import defaultdict
 
 
-# -------------------------------------------------------
+# ------------------------------------------------------
 # Logging Configuration
 # -------------------------------------------------------
 logging.basicConfig(
