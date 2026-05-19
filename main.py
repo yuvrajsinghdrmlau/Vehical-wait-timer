@@ -16,7 +16,7 @@ from collections import defaultdict
 
 # ------------------------------------------------------
 # Logging Configuration
-# -------------------------------------------------------
+# ------------------------------------------------------
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(message)s"
